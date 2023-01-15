@@ -4,9 +4,6 @@ import torch.nn.functional as F
 
 
 class Classification_RNN(nn.Module):
-    '''
-    nn.Linear(in_features, out_features): in_features is the number of inputs each neuron gets. out_features is the number of total neurons in that layer
-    '''
     def __init__(self, input_size, hidden_size, output_size):
         '''
         input_size: Size of the vocab
