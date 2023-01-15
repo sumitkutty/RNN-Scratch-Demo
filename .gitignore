@@ -1,0 +1,7 @@
+data.zip
+notes.md
+Classification_RNN.jpg
+.DS_Store
+models/classification_rnn.pt
+data/names
+data/eng-fra.txt
