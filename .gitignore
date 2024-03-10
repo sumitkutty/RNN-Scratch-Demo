@@ -5,3 +5,5 @@ Classification_RNN.jpg
 models/classification_rnn.pt
 data/names
 data/eng-fra.txt
+
+__pycache__
